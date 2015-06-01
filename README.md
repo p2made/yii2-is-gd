@@ -1,4 +1,4 @@
-P2IsGd v1.0.0
+P2IsGd v1.0.2
 =============
 
 A simple wrapper of [is.gd](http://is.gd) as a helper for Yii 2 Framework.
@@ -29,7 +29,7 @@ Usage
 Once the extension is installed, simply use it in your code by:
 
 ```php
-	$shortenedUrl = \p2made\helpers\is-gd\IsGdHelpers::shortenUrl($inputUrl);
+	$shortenedUrl = \p2made\helpers\isgd\IsGdHelpers::shortenUrl($inputUrl);
 ```
 
 
