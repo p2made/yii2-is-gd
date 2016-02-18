@@ -11,13 +11,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist p2made/yii2-is-dg "*"
+php composer.phar require --prefer-dist p2made/yii2-is-gd "*"
 ```
 
 or add
 
 ```
-"p2made/yii2-is-dg": "*"
+"p2made/yii2-is-gd": "*"
 ```
 
 to the require section of your `composer.json` file.
