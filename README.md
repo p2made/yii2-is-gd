@@ -1,4 +1,4 @@
-P2IsGd v1.0.2
+P2IsGd v1.0.3
 =============
 
 A simple wrapper of [is.gd](http://is.gd) as a helper for Yii 2 Framework.
